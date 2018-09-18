@@ -1,0 +1,10 @@
+C:\ISMHadun\GuerrierGarryasg4\asg4client\bin\Debug\asg4client.exe.config
+C:\ISMHadun\GuerrierGarryasg4\asg4client\bin\Debug\asg4client.exe
+C:\ISMHadun\GuerrierGarryasg4\asg4client\bin\Debug\asg4client.pdb
+C:\ISMHadun\GuerrierGarryasg4\asg4client\bin\Debug\adodblib.dll
+C:\ISMHadun\GuerrierGarryasg4\asg4client\bin\Debug\adodblib.pdb
+C:\ISMHadun\GuerrierGarryasg4\asg4client\obj\Debug\asg4client.csprojResolveAssemblyReference.cache
+C:\ISMHadun\GuerrierGarryasg4\asg4client\obj\Debug\asg4client.csproj.CoreCompileInputs.cache
+C:\ISMHadun\GuerrierGarryasg4\asg4client\obj\Debug\asg4client.csproj.CopyComplete
+C:\ISMHadun\GuerrierGarryasg4\asg4client\obj\Debug\asg4client.exe
+C:\ISMHadun\GuerrierGarryasg4\asg4client\obj\Debug\asg4client.pdb

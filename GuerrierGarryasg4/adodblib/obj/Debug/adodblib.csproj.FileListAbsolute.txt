@@ -1,0 +1,18 @@
+C:\ISMHadun\GuerrierGarryasg4\adodblib\bin\Debug\adodblib.dll
+C:\ISMHadun\GuerrierGarryasg4\adodblib\bin\Debug\adodblib.pdb
+C:\ISMHadun\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.csproj.CoreCompileInputs.cache
+C:\ISMHadun\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.dll
+C:\ISMHadun\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.pdb
+C:\ISMHadun\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Desktop\GuerrierGarryasg4\adodblib\bin\Debug\adodblib.dll
+C:\Users\AJ\Desktop\GuerrierGarryasg4\adodblib\bin\Debug\adodblib.pdb
+C:\Users\AJ\Desktop\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Desktop\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Desktop\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.dll
+C:\Users\AJ\Desktop\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.pdb
+C:\Users\AJ\source\repos\Library Assignment\GuerrierGarryasg4\adodblib\bin\Debug\adodblib.dll
+C:\Users\AJ\source\repos\Library Assignment\GuerrierGarryasg4\adodblib\bin\Debug\adodblib.pdb
+C:\Users\AJ\source\repos\Library Assignment\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.csprojAssemblyReference.cache
+C:\Users\AJ\source\repos\Library Assignment\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.csproj.CoreCompileInputs.cache
+C:\Users\AJ\source\repos\Library Assignment\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.dll
+C:\Users\AJ\source\repos\Library Assignment\GuerrierGarryasg4\adodblib\obj\Debug\adodblib.pdb

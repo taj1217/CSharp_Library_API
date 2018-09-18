@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adodblib", "adodblib\adodblib.csproj", "{079F7426-C82B-4BBD-9166-276D9AAA3BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asg4client", "asg4client\asg4client.csproj", "{07D48AF4-1013-4BDB-9ED1-438E29C71CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079F7426-C82B-4BBD-9166-276D9AAA3BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079F7426-C82B-4BBD-9166-276D9AAA3BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079F7426-C82B-4BBD-9166-276D9AAA3BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079F7426-C82B-4BBD-9166-276D9AAA3BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D48AF4-1013-4BDB-9ED1-438E29C71CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D48AF4-1013-4BDB-9ED1-438E29C71CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D48AF4-1013-4BDB-9ED1-438E29C71CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D48AF4-1013-4BDB-9ED1-438E29C71CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4573597D-636B-45A4-8BDF-01645A7ACD48}
+	EndGlobalSection
+EndGlobal
